@@ -49,5 +49,10 @@
       "label": "reports",
       "href": "/reports"
     }
-  ]
+  ],
+  "application-information": {
+    "countryCode": "hu_HU",
+    "environmentInfo": "DEV",
+    "versionNumber": "0.0.1"
+  }
 }
